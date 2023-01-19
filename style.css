@@ -1,0 +1,92 @@
+.ad{
+    font-family:'Inter';
+    font-size: 25px;
+    text-align:right;
+    font-style: italic;
+    /* padding-right: 230pt; */
+    float:right;
+    line-height: auto;
+    /* padding-top: 0px; */
+    display: inline;
+    padding-top: 0px;
+    margin:0px;
+}
+body{
+     background-image: url("Untitled.jpeg"); 
+    background-size: cover;
+    background-color:#cccccc;
+    /* background-image: ; */
+}
+h1{
+    width: 1000px;
+}
+#ad2{
+    padding-top:0px
+}
+
+#text{
+    font-family: 'Poppins';
+    font-size:20px;
+    font-weight: 500;
+    color:black;
+    text-align: left;  
+    background-color:transparent;
+}
+#save{
+    font-family: 'Ephesis';
+    font-size:50px;
+    color: rgb(153, 4, 4);
+
+}
+.nav-bar{
+    display: block;
+    background-color:transparent;
+}
+#logo{
+    padding-top: 0px;
+    align-items:center;
+}
+.IEEE{ 
+    font-family: "Open Sans"; 
+    font-size: 50px; font-style: bold;
+    font-weight: 900; 
+    line-height: 33px; 
+    text-align: center;
+    padding-left: 10px;
+    padding-bottom: 15px;
+    padding-right: 10px;
+    width: 40px;
+
+    align-items: center;
+}
+button{
+    border: 0cm;
+    background-color: transparent;
+}
+
+.photo-container{
+    display: inline-block;
+    
+}
+
+.list-items{
+    float: left;
+}
+
+.btn{
+    display: flex;
+    align-items: flex-end;
+    float: right;
+    font-family: 'Inter';
+    font-size:x-large;
+    font-weight: 600;
+}
+
+#home{
+    padding: 20px 10px 10px 10px;
+}
+
+#events{
+    padding: 20px 10px 10px 10px;
+}
+
