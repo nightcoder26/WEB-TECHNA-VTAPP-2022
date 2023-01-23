@@ -4,6 +4,7 @@
 
 
 ##### Save Techna from Peril
-##### Use your technical and non-technical skills to save Princess Techna from the Monster Bug-eera Debug code, pass test cases, make and improve web pages to cross each ##### level which will bring you closer to saving the Princess. Boost your resume and accelerate your technical journey with an Internship from Edvenswa
+##### Use your technical and non-technical skills to save Princess Techna from the Monster Bug-eera Debug code, pass test cases, make and improve web pages to cross each 
+##### level which will bring you closer to saving the Princess. Boost your resume and accelerate your technical journey with an Internship from Edvenswa
 
 ##### Event organised by IEEE student Chapter at VIT AP
