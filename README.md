@@ -9,6 +9,6 @@
 
 ##### Event organised by IEEE student Chapter at VIT AP
 
-##This page is live at the following link
-Click below to see👇
-[SAVE_TECHNA]()
+## This page is live at the following link
+Click below to see👇<br>
+[SAVE_TECHNA](https://nightcoder26.github.io/WEB-TECHNA-VTAPP-2022/)
