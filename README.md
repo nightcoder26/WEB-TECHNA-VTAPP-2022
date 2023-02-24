@@ -8,3 +8,7 @@
 ##### level which will bring you closer to saving the Princess. Boost your resume and accelerate your technical journey with an Internship from Edvenswa
 
 ##### Event organised by IEEE student Chapter at VIT AP
+
+##This page is live at the following link
+Click below to see👇
+[SAVE_TECHNA]()
